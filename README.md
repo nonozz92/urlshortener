@@ -40,3 +40,7 @@ Entrez une URL longue dans le formulaire "URL à raccourcir", puis appuyez sur "
 - **Arnaud Gibelli**
 - **Hugo Cleret**
 - **Alex Corceiro**
+
+### Tester de l'application
+
+- go test -v
